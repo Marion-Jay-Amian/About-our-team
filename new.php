@@ -179,7 +179,7 @@ $leftQuote = "Let go of who you think you're supposed to be and embrace who you 
                     <p>IT STUDENT</p>
                 </div>
 
-                <div class="card" onclick="updateLeftSide('./assets/jay.jpg', 'Marion Jay Amian', 'https://www.linkedin.com/in/marion-jay-amian-248726322/', 'Strive not to be a success, but rather to be of value.')">
+                <div class="card" onclick="updateLeftSide('./assets/jay.jpg', 'Marion Jay Amian', 'https://www.linkedin.com/in/marion-jay-amian-248726322/', 'Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you. He will not leave you or forsake you.”')">
                     <div class="card-image">
                         <img src="./assets/jay.jpg" alt="Profile image">
                     </div>
